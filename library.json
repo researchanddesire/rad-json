@@ -1,0 +1,17 @@
+{
+  "name": "RAD-JSON",
+  "version": "1.0.0",
+  "description": "A type library for the JSON communication protocol at research and desire.",
+  "authors": [
+    {
+      "name": "AJ",
+      "email": "AJ@ResearchAndDesire.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/researchanddesire/rad-json"
+  },
+  "dependencies": {
+  }
+}
